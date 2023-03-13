@@ -3,7 +3,7 @@
 
 
 
-Repositorio oficial de la materia Frontend III (React) de Digital House, Alumno Jonathan Bolatti
+Repositorio de la materia Frontend III (React) de Digital House, Alumno Jonathan Bolatti
 
 Sigue estos pasos en tu términal para poder navegar el repo:
 
